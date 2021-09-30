@@ -5,15 +5,5 @@
 
 ![unnamed (9)](https://user-images.githubusercontent.com/56006483/135389515-0cb50a83-b2f0-4fac-8ddb-2265d7439570.png)
 
-want [**more?**](definitelynotascammer
-/
-https:
-/
-github.com
-/
-kpandya682
-/
-anotherpage.md
-in
-)
+want [**more?**](definitelynotascammer/https:/github.com/kpandya682/anotherpage.md)
 
